@@ -1,0 +1,7 @@
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mutez\OneDrive - De Vinci\ANNEE_2\Semestre_1\Algorithmique_et_programmation\TDFinal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
